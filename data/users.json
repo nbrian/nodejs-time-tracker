@@ -1,1 +1,107 @@
-[]
+[
+    {
+        "id":1,
+        "name":"John Doe",
+        "clockIn":"07:47:12",
+        "clockOut":"",
+        "active":true
+    },
+    {
+        "id":2,
+        "name":"Tracy Chavez",
+        "clockIn":"07:12:22",
+        "clockOut":"",
+        "active":true
+    },
+    {
+        "id":3,
+        "name":"Maureen Diaz",
+        "clockIn":"09:18:11",
+        "clockOut":"18:40:02",
+        "active":false
+    },
+    {
+        "id":4,
+        "name":"Gilbert Roberts",
+        "clockIn":"09:17:17",
+        "clockOut":"",
+        "active":true
+    },
+    {
+        "id":5,
+        "name":"Mia Cole",
+        "clockIn":"09:21:09",
+        "clockOut":"",
+        "active":true
+    },
+    {
+        "id":6,
+        "name":"Ann Stewart",
+        "clockIn":"07:14:29",
+        "clockOut":"17:03:09",
+        "active":false
+    },
+    {
+        "id":7,
+        "name":"Terry Mendoza",
+        "clockIn":"08:15:12",
+        "clockOut":"17:30:20",
+        "active":false
+    },
+    {
+        "id":8,
+        "name":"Bob Rhodes",
+        "clockIn":"09:01:02",
+        "clockOut":"18:20:11",
+        "active":false
+    },
+    {
+        "id":9,
+        "name":"Harry Hernandez",
+        "clockIn":"07:21:00",
+        "clockOut":"",
+        "active":true
+    },
+    {
+        "id":10,
+        "name":"Randy Myers",
+        "clockIn":"10:01:32",
+        "clockOut":"",
+        "active":true
+    },
+    {
+        "id":11,
+        "name":"Pearl Jimenez",
+        "clockIn":"07:27:23",
+        "clockOut":"17:20:12",
+        "active":false
+    },
+    {
+        "id":12,
+        "name":"Minnie Oliver",
+        "clockIn":"11:00:12",
+        "clockOut":"",
+        "active":true
+    },
+    {
+        "id":13,
+        "name":"Jared Beck",
+        "clockIn":"07:51:06",
+        "clockOut":"17:01:12",
+        "active":false
+    },
+    {
+        "id":14,
+        "name":"Vicki Murray",
+        "clockIn":"07:01:42",
+        "clockOut":"17:02:10",
+        "active":false
+    },
+    {
+        "id":15,
+        "name":"Mehgan Terry",
+        "clockIn":"09:07:12",
+        "clockOut":"",
+        "active":true
+    }
+]
