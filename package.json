@@ -1,5 +1,5 @@
 {
-  "name": "time-tracker",
+  "name": "nodejs-time-tracker",
   "version": "0.0.1",
   "description": "Simple Time Tracker",
   "private": true,
