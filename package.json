@@ -1,7 +1,7 @@
 {
-  "name": "starshot-leave-tracker",
+  "name": "time-tracker",
   "version": "0.0.1",
-  "description": "Simple Leave Tracker",
+  "description": "Simple Time Tracker",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
